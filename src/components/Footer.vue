@@ -1,7 +1,7 @@
 <template>
-  <footer class="bg-coolGray-900">
+  <footer class="bg-white">
     <div
-      class="container flex items-center justify-between px-2 py-4 mx-auto space-x-4 space-y-2 text-coolGray-200"
+      class="container flex items-center justify-between px-2 py-4 mx-auto space-x-4 space-y-2 text-blue-900"
     >
       <div class="text-xs">
         Favicon made by

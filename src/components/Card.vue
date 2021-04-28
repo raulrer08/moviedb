@@ -8,7 +8,7 @@
       class="flex flex-col justify-between p-4 leading-normal border-b border-l border-r rounded-b bg-coolGray-100 border-coolGray-400 lg:border-l-0 lg:border-t lg:border-coolGray-400 lg:rounded-b-none lg:rounded-r"
     >
       <div class="mb-8">
-        <div class="mb-2 text-xl font-bold text-coolGray-900">
+        <div class="mb-2 text-xl font-bold text-blue-900">
           {{ movie.title }}
         </div>
         <p class="text-base text-coolGray-700 line-clamp-6">
